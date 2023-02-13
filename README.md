@@ -1,1 +1,2 @@
-# DocuWerx
+# 🧑🏻‍💻 DocuWerx is Software & Technology Company; an early-stage-pre-seed startup contributing to the new iteration of the internet, the Internet of People. As we present our professional services and decentralized technologies with the intent to improve mainstream culture. 
+We aim to dispel the misperceptions of complex concepts and unfamiliar ideas such as Artificial Intelligence, Blockchain and Decentralized Technologies. We strive to encourage the adoption of decentralization from centralized systems and the true benefits it can bring to our global society.🎯
